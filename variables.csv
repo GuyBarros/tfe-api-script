@@ -1,0 +1,2 @@
+example_variable,example_value,terraform,false,false
+CONFIRM_DESTROY,1,env,false,false

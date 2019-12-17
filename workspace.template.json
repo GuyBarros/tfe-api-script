@@ -1,0 +1,10 @@
+{
+  "data":
+  {
+    "attributes": {
+      "name":"placeholder",
+      "terraform-version": "0.11.14"
+    },
+    "type":"workspaces"
+  }
+}

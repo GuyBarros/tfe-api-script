@@ -1,0 +1,15 @@
+{
+    "data": {
+        "attributes": {
+            "enforce": [
+                {
+                    "path": "placeholder.sentinel",
+                    "mode": "soft-mandatory"
+                }
+            ],
+            "name": "placeholder",
+            "description": "An example policy uploaded via the api"
+        },
+        "type": "policies"
+    }
+}

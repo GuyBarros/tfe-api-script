@@ -1,0 +1,10 @@
+{
+    "data": {
+        "type": "policy-sets",
+        "attributes": {
+            "name": "placeholder",
+            "description": "This set contains policies that should be checked on all production infrastructure workspaces. -created by the API",
+            "global": false
+        }
+    }
+}
